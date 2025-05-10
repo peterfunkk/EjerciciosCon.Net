@@ -1,0 +1,15 @@
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\bin\Debug\net8.0\If-Else.exe
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\bin\Debug\net8.0\If-Else.deps.json
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\bin\Debug\net8.0\If-Else.runtimeconfig.json
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\bin\Debug\net8.0\If-Else.dll
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\bin\Debug\net8.0\If-Else.pdb
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\obj\Debug\net8.0\If-Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\obj\Debug\net8.0\If-Else.AssemblyInfoInputs.cache
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\obj\Debug\net8.0\If-Else.AssemblyInfo.cs
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\obj\Debug\net8.0\If-Else.csproj.CoreCompileInputs.cache
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\obj\Debug\net8.0\If-Else.sourcelink.json
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\obj\Debug\net8.0\If-Else.dll
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\obj\Debug\net8.0\refint\If-Else.dll
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\obj\Debug\net8.0\If-Else.pdb
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\obj\Debug\net8.0\If-Else.genruntimeconfig.cache
+C:\Users\escal\source\repos\ConsoleApp1\If-Else\obj\Debug\net8.0\ref\If-Else.dll
